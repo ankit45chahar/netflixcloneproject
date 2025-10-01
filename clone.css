@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-image: url(netflixbackground2.jpg);
+}
+.logomain{
+    width: 140px;
+    height: 160px;
+    border-radius: 10px;
+    margin-left: 81px;
+    margin-top: 19px;
+}
+.topmostend{
+    background-color: black;
+    color: white;
+    width: 86px;
+  height: 35px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 9px;
+   font-family: "Roboto Mono", monospace;
+   cursor: pointer;
+   position: absolute;
+  left: 1246px;
+  top: 17px;
+}
+.topmostend:hover{
+    transform: scale(1.3);
+    transition: .4s;
+}
+.topmostend2{
+    background-color: red;
+  border: 3px solid red;
+  border-radius: 10px;
+  width: 81px;
+  height: 33px;
+  padding-right: 6px;
+  color: white;
+   font-family: "Roboto Mono", monospace;
+   cursor: pointer;
+   position: absolute;
+  left: 1350px;
+  top: 17px;
+}
+.topmostend2:hover{
+    transform: scale(1.3);
+    transition: .5s;
+}
+.mainp1{
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    font-size: 3rem;
+    font-weight: 1000;
+    text-align: center;
+}
+.mainp2{
+       color: white;
+    font-family: "Roboto Mono", monospace;
+    font-size: 1rem;
+    font-weight: 450;
+    text-align: center;
+    font-weight: 900;
+}
+.mainp3{
+     color: white;
+     font-family: "Roboto Mono", monospace;
+     text-align: center;
+}
+.maini1{
+    width: 282px;
+  height: 41px;
+  padding: 1px;
+  border: 1px solid white;
+  border-radius: 8px;
+  margin-left: 486px;
+  padding-left: 25px;
+  color: white;
+  background-color: black;
+}
+.maini2{
+    background-color: red;
+  color: white;
+  border: 3px solid red;
+  border-radius: 5px;
+  width: 166px;
+  height: 48px;
+  margin-left: 16px;
+     font-family: "Roboto Mono", monospace;
+     font-weight: 700;
+     cursor: pointer;
+}
+.maini2:hover{
+     transform: scale(1.3);
+    transition: .5s;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.pic1{
+width: 150px;
+height: 200px;
+margin: 30px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic2{
+    width: 150px;
+height: 200px;
+margin: 30px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic3{
+    width: 150px;
+height: 200px;
+margin: 30px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic4{
+    width: 150px;
+height: 200px;
+margin: 30px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic5{
+   width: 150px;
+height: 200px; 
+margin: 30px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic1:hover{
+transform: scale(1.1);
+    transition: .5s;
+}
+.pic2:hover{
+   transform: scale(1.1);
+    transition: .5s; 
+}
+.pic3:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.pic4:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.pic5:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+}
+.pic6{
+width: 160px;
+height: 230px;
+margin: 40px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic7{
+   width: 160px;
+height: 230px;
+margin: 40px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic8{
+   width: 160px;
+height: 230px;
+margin: 40px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic9{
+    width: 160px;
+height: 230px;
+margin: 40px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic10{
+   width: 160px;
+height: 230px;
+margin: 40px;
+border-radius: 10px;
+cursor: pointer;
+}
+.pic6:hover{
+transform: scale(1.1);
+    transition: .5s;
+}
+.pic7:hover{
+   transform: scale(1.1);
+    transition: .5s; 
+}
+.pic8:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.pic9:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.pic10:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    width: 100%;
+    height: 22vh;
+    padding: 22px;
+    text-align: center;
+}
+ul li{
+    list-style: none;
+}
+.last5{
+    text-align: end;
+    margin-right: 40px;
+}
+.last5 a{
+    text-decoration: none;
+    text-align: end;
+}
